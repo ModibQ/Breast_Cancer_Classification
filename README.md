@@ -18,8 +18,4 @@
         - The Breast Cancer Histopathological Image Classification (BreakHis) --> https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
 
     - GPU Access
-#### Execute the cells in the BreastCancerClassification.ipynb jupyter notebook to:
-
-- Visualize and preprocess the data
-- 
-`
+#### Execute the cells in the BreastCancerClassification.ipynb jupyter notebook to see the Results
