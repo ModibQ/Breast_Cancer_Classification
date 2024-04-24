@@ -23,13 +23,14 @@
 
 ## Dataset:
 
-Contains a total of 7,909 images 
-Four different magnification levels:
+# Contains a total of 7,909 images 
+# Four different magnification levels:
 40x
 100x
 200x
 400x
-Eight different classes:
+
+# Eight different classes:
 Adenosis
 Fibroadenoma
 Phyllodes tumor
