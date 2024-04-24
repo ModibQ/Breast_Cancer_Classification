@@ -31,11 +31,11 @@
 400x
 
 ## Eight different classes:
-Adenosis
-Fibroadenoma
-Phyllodes tumor
-Tubular adenoma
-Ductal carcinoma
-Lobular carcinoma
-Mucinous carcinoma
+Adenosis,
+Fibroadenoma,
+Phyllodes tumor,
+Tubular adenoma,
+Ductal carcinoma,
+Lobular carcinoma,
+Mucinous carcinoma,
 Papillary carcinoma
